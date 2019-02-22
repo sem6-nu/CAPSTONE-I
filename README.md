@@ -14,6 +14,6 @@ If an image is given our model should be able to tell the name of all the types 
 
 ### Samir Ahmed Ghouri
 
-### Deepak Atreja
+### Deepak Atreja..
 
 
