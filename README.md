@@ -5,14 +5,14 @@ If an image is given our model should be able to tell the name of all the types 
 ## [MID SEM I Presentation](https://docs.google.com/presentation/d/1rAY3LBFWW6Ac7cAf-pt_uAI2YcPxzOtU1ne0plpfrCw/edit?usp=sharing)
 ## [Project Board](https://github.com/sem6-nu/CAPSTONE-I/projects)
 
-# CONTRIBUTORS
+# Contributors
 
-* Soumyadip Ghosh
+### Soumyadip Ghosh
 
-* Rahul Ghosh([Sourcerer profile](https://sourcerer.io/ghrahul) )
+### Rahul Ghosh([Sourcerer profile](https://sourcerer.io/ghrahul) )
 
-* Samir Ahmed Ghouri
+### Samir Ahmed Ghouri
 
-* Deepak Atreja
+### Deepak Atreja
 
 
