@@ -3,7 +3,7 @@ If an image is given our model should be able to tell the name of all the types 
 
 * ## [Project Roadmap](https://docs.google.com/document/d/1erKm0rMYSGh4emntfVez4WdEmMvhzt5d5oCBIePupmI/edit?usp=sharing)
 * ## [MID SEM I Presentation](https://docs.google.com/presentation/d/1rAY3LBFWW6Ac7cAf-pt_uAI2YcPxzOtU1ne0plpfrCw/edit?usp=sharing)
-* ## [Project Board](https://github.com/sem6-nu/CAPSTONE-I/projects)
+* ## [Project Board](https://github.com/sem6-nu/CAPSTONE-I/projects/1)
 * ## [Product Website](https://sem6-nu.github.io/)
 
 # Contributors
