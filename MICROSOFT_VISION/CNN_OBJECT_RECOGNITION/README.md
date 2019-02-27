@@ -1,0 +1,1 @@
+* This model is able to recognize cats and dogs.

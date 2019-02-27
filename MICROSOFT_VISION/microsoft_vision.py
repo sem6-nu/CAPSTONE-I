@@ -21,7 +21,7 @@ vision_base_url = "https://eastus2.api.cognitive.microsoft.com/vision/v2.0/"
 analyze_url = vision_base_url + "analyze"
 
 # Set image_path to the local path of an image that you want to analyze.
-image_path = "input.jpg"
+image_path = "images.jpg"
 
 # Read the image into a byte array
 image_data = open(image_path, "rb").read()
