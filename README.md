@@ -15,7 +15,7 @@ If an image is given our model should be able to tell the name of all the types 
 
 # Contributors
 
-### Soumyadip Ghosh
+### Soumyadip Ghosh.
 
 ### Rahul Ghosh([Sourcerer profile](https://sourcerer.io/ghrahul) )
 
