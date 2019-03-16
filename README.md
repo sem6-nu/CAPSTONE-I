@@ -2,6 +2,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/sem6-nu/CAPSTONE-I.svg?style=social)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/sem6-nu/CAPSTONE-I.svg)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sem6-nu/CAPSTONE-I.svg)
+![GitHub](https://img.shields.io/github/license/sem6-nu/CAPSTONE-I.svg)
 
 
 # Object Recognition
@@ -14,12 +15,12 @@ If an image is given our model should be able to tell the name of all the types 
 
 # Contributors
 
-### Soumyadip Ghosh
+### Soumyadip Ghosh.
 
 ### Rahul Ghosh([Sourcerer profile](https://sourcerer.io/ghrahul) )
 
 ### Samir Ahmed Ghouri
 
-### Deepak Atreja..
+### Deepak Atreja
 
 
