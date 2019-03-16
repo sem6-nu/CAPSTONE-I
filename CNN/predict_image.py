@@ -12,9 +12,9 @@ def prepare(filepath):
     return new_array.reshape(-1, IMG_SIZE, IMG_SIZE, 1)
 
 def result(image):
-    prediction = model.predict([prepare('cat1.jpg')])
+    prediction = model.predict([prepare(image)])
     return CATEGORIES[int(prediction[0][0])]
 
-print(result('cat1.jpg'))
+print(result('dog2.jpg'))
 
 
