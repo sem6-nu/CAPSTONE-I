@@ -19,5 +19,5 @@ opencv_python == 3.4.0.12
 # MICROSOFT_VISION\microsoft_vision.py: 1
 requests == 2.21.0
 
-# CNN\predict.py: 2
+# CNNFOLDER\predict.py: 2
 tensorflow == 1.12.0
