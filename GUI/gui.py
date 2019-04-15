@@ -1,10 +1,21 @@
 import tkinter as tk
+from tkinter import filedialog
 
 window = tk.Tk()
 
 window.title("OBJECT DETECTION")
 window.geometry("400x400")
 
+# ----Function----
+
+
+def mfileopen():
+    file1 = filedialog.askopenfile()
+    # file_label = tk.Label(text=file1).grid(column=2, row=3)
+
+
+file_label = tk.Label(text="Step 1:").grid(column=2, row=1)
+button = tk.Button(text="open file ", command=mfileopen).grid(column=3, row=1)
 
 # ----LABEL1----
 label1 = tk.Label(text="TensorFlow", font=('Comic Sans MS', 30))
@@ -14,18 +25,21 @@ button1 = tk.Button(text="Click me")
 button1.grid(column=0, row=1)
 
 # ----LABEL2----
-label1 = tk.Label(text="YOLO_RealTime", font=('Comic Sans MS', 30))
-label1.grid(column=1, row=0, padx=100, pady=100)
+label2 = tk.Label(text="YOLO_RealTime", font=('Comic Sans MS', 30))
+label2.grid(column=1, row=0, padx=100, pady=100)
 # ----BUTTON2----
-button1 = tk.Button(text="Click me")
-button1.grid(column=1, row=1)
+button2 = tk.Button(text="Click me")
+button2.grid(column=1, row=1)
 
 # ----LABEL3----
-label1 = tk.Label(text="YOLO", font=('Comic Sans MS', 30))
-label1.grid(column=2, row=0, padx=100, pady=100)
+label3 = tk.Label(text="YOLO", font=('Comic Sans MS', 30))
+label3.grid(column=2, row=0, padx=100, pady=100)
+
+
 # ----BUTTON3----
-button1 = tk.Button(text="Click me")
-button1.grid(column=2, row=1)
+label_button3 = tk.Label(text="Step 2 :").grid(column=2, row=2)
+button3 = tk.Button(text="Click me")
+button3.grid(column=3, row=2)
 
 
 window.mainloop()
