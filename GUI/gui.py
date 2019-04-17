@@ -15,17 +15,17 @@ window.geometry("400x400")
 
 def mfileopen():
     file1 = filedialog.askopenfile()
-    #return file1
-    file_label = tk.Label(text=file1).grid(column=2, row=3)
+    global p
+    p = file1.name
+
+
 
 def callYOLORealTime():
     os.system(' python3 yolo-real-time.py --yolo yolo-coco')
-    
-    
+
+
 def callYOLO():
-    file1 = filedialog.askopenfile()
-    print(file1)
-    #os.system(' python3 yolo-real-time.py --yolo yolo-coco')
+    os.system(' python yolo.py --image '+ p + ' --yolo yolo-coco ')
 
 def callTensor():
     os.system('python3 test.py')
@@ -53,9 +53,9 @@ label3.grid(column=2, row=0, padx=100, pady=100)
 
 # ----BUTTON3----
 file_label = tk.Label(text="Step 1:").grid(column=2, row=1)
-button = tk.Button(text="open file ", command=callYOLO).grid(column=3, row=1)
+button = tk.Button(text="open file ", command=mfileopen).grid(column=3, row=1)
 label_button3 = tk.Label(text="Step 2 :").grid(column=2, row=2)
-button3 = tk.Button(text="Click me")
+button3 = tk.Button(text="Click me", command=callYOLO)
 button3.grid(column=3, row=2)
 
 # ----LABEL4----
