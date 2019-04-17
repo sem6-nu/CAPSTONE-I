@@ -6,6 +6,8 @@ import inspect
 import pathlib
 
 window = tk.Tk()
+window.attributes('-zoomed', True)
+
 
 window.title("OBJECT DETECTION")
 window.geometry("400x400")
