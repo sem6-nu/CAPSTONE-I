@@ -17,7 +17,7 @@ If an image is given our model should be able to tell the name of all the types 
 
 ### Soumyadip Ghosh.
 
-### Rahul Ghosh([Sourcerer profile](https://sourcerer.io/ghrahul)
+### Rahul Ghosh([Sourcerer profile](https://sourcerer.io/ghrahul))
 
 ### Samir Ahmed Ghouri
 
