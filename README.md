@@ -12,6 +12,7 @@ If an image is given our model should be able to tell the name of all the types 
 * ## [Presentation](https://docs.google.com/presentation/d/1EuqDIGVmvQUFo0k-LuapWTPcS7DqniB-WsZsswpoGEk/edit?usp=sharing)
 * ## [Project Board](https://github.com/sem6-nu/CAPSTONE-I/projects/1)
 * ## [Product Website](https://sem6-nu.github.io/)
+* ## [Docker Image](https://hub.docker.com/r/soumyadipghosh30121997/object_detection)
 
 # Contributors
 
