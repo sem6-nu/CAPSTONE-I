@@ -13,7 +13,7 @@ boto3 == 1.9.82
 matplotlib == 3.0.2
 
 # CNN\predict.py: 1
-opencv_python == 3.4.0.12
+opencv_python == 3.4.7.28
 
 # MICROSOFT_VISION\azure_object_detect.py: 1
 # MICROSOFT_VISION\microsoft_vision.py: 1
