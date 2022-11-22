@@ -3,7 +3,7 @@
 
 # MICROSOFT_VISION\azure_object_detect.py: 3
 # MICROSOFT_VISION\microsoft_vision.py: 5
-Pillow == 5.4.1
+Pillow == 9.3.0
 
 # AMAZON_REKOGNITION\amazon_rekog.py: 1
 boto3 == 1.9.82
